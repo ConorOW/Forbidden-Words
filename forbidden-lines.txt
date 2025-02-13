@@ -1,0 +1,20 @@
+The diagnosis of PD with dementia has a larger impact on life expectancy in females than in males,5 however due to underpowered studies, research in PD has failed to fully investigate sex-specific effects on brain degeneration and cognitive decline.6 These factors mandate a rigorous, inclusive initiative to understand the risk factors for developing PD dementia, and its neuroanatomical correlates.
+
+As part of the ADNI MRI Core, we showed how brain atrophy in aging and dementia are related to a number of genetic, environmental and lifestyle factors including physical activity,34,35 cerebral and systemic small vessel disease (SVD),36 homocysteine levels,37 and AD risk genes,38,39 , all of which have also been associated with dementia in Parkinson’s disease,40  as reviewed in 41.
+
+PD impacts males and females differently: female PD patients are diagnosed at a lower incidence rate, with a generally slower disease progression and a more mild motor phenotype, suggesting genetic, environmental, endocrine, and gene-environment interactions in PD.67,68 Female PD patients report more depression, anxiety, and overall lower quality of life.67–69 The lower incidence rate of female PD patients makes it challenging to study and identify reproducible sex-specific neuroimaging biomarker trajectories in any single site study.
+
+To investigate if WMH metrics improve our prognostic models for dementia conversion, we will assess WMH burden quantified using a deep learning tool: an ensemble U-Net that accounts for partial volume effects.141 This tool outperformed 39 methods submitted to a WMH Segmentation Challenge, detected differences associated with cognition, and discriminated MCI and dementia in AD.141  Figure 17.
+
+We hypothesize that males and females will form largely distinct clusters and that bundles of PD-MCI cases who convert to PD will cluster together, and be on average thinner, than those who do not.
+
+Global Trends in the Incidence, Prevalence, and Years Lived With Disability of Parkinson’s Disease in 204 Countries/Territories From 1990 to 2019.
+
+Relationship between Systemic and Cerebral Vascular Disease and Brain Structure Integrity in Normal Elderly Individuals.
+
+Parkinson’s Disease in Women and Men: What's the Difference?
+
+Gender differences in Parkinson’s disease.
+
+Greater male than female variability in regional brain structure across the lifespan.
+
