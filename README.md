@@ -3,8 +3,7 @@ A little script that you can use to retrieve sections from a Microsoft Word file
 
 
 ## Installation
-To install the required packages, run:\
-&nbsp;&nbsp;&nbsp;&nbsp;`bash`
+To install the required packages, use bash and run:\
 &nbsp;&nbsp;&nbsp;&nbsp;`pip install -r requirements.txt`
 
 ## Running your Forbidden Word Checker
