@@ -6,7 +6,7 @@ A little script that you can use to retrieve lines from a Microsoft Word file th
 To install the required packages, run:
 
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
 
 To run this script, ensure the for `forbidden-words.txt` file is in your current directory. This should be alongside the `finding-forbidden-words.py` python script.
 
