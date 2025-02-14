@@ -46,14 +46,6 @@ gender
 gender diversity
 genders
 hate speech
-excluded
-female
-females
-fostering inclusivity
-gender
-gender diversity
-genders
-hate speech
 hispanic minority
 historically
 implicit bias
@@ -70,7 +62,7 @@ inequality
 inequitable
 inequities
 institutional
-Igbt
+lgbt
 marginalize
 marginalized
 minorities
